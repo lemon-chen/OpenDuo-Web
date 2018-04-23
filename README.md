@@ -24,6 +24,7 @@ This sample app allows you to:
 1. Ensure that your device has a camera and sufficient CPU and memory, and make sure that your device meets one of the following requirements:
 
   - Windows 7 or later
+  
   - macOS
   - iOS 11 or later
   - Android 4.1 or later
